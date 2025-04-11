@@ -1,0 +1,11 @@
+.DS_STORE
+
+.venv/
+.vscode/
+stl-collection-viewer/node_modules/
+stl-collection-viewer/.angular/
+stl-collection-viewer/.vscode
+stl-collection-viewer/package-lock.json
+stl-collection-viewer/test-directory/
+stl-collection-viewer/sample-dragon.png
+stl-collection-viewer/sample-dragon.stl
