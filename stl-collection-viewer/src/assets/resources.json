@@ -1,0 +1,41 @@
+{
+    "test-directory": {
+        "dragon.stl": "test-directory/dragon.stl",
+        "nested-dir-2": {
+            "dragon copy 2.stl": "test-directory/nested-dir-2/dragon copy 2.stl",
+            "dragon.stl": "test-directory/nested-dir-2/dragon.stl",
+            "SquarePants_wm.stl": "test-directory/nested-dir-2/SquarePants_wm.stl",
+            "dragon copy.stl": "test-directory/nested-dir-2/dragon copy.stl"
+        },
+        "nested-dir-1": {
+            "FROG2.stl": "test-directory/nested-dir-1/FROG2.stl",
+            "Chubby_Iguana.stl": "test-directory/nested-dir-1/Chubby_Iguana.stl",
+            "FROG2 copy 3.stl": "test-directory/nested-dir-1/FROG2 copy 3.stl",
+            "FROG2 copy 2.stl": "test-directory/nested-dir-1/FROG2 copy 2.stl",
+            "FROG2 copy 5.stl": "test-directory/nested-dir-1/FROG2 copy 5.stl",
+            "FROG2 copy 4.stl": "test-directory/nested-dir-1/FROG2 copy 4.stl",
+            "FROG2 copy.stl": "test-directory/nested-dir-1/FROG2 copy.stl",
+            "nested-2-dir-2": {
+                "Baby_Frog copy 3.stl": "test-directory/nested-dir-1/nested-2-dir-2/Baby_Frog copy 3.stl",
+                "Baby_Frog copy 2.stl": "test-directory/nested-dir-1/nested-2-dir-2/Baby_Frog copy 2.stl",
+                "Baby_Frog.stl": "test-directory/nested-dir-1/nested-2-dir-2/Baby_Frog.stl",
+                "Baby_Frog copy.stl": "test-directory/nested-dir-1/nested-2-dir-2/Baby_Frog copy.stl",
+                "Bubbly Manatee Multicolor.stl": "test-directory/nested-dir-1/nested-2-dir-2/Bubbly Manatee Multicolor.stl",
+                "nested-3-dir-1": {
+                    "Baby_Frog copy 3.stl": "test-directory/nested-dir-1/nested-2-dir-2/nested-3-dir-1/Baby_Frog copy 3.stl",
+                    "Baby_Frog copy 2.stl": "test-directory/nested-dir-1/nested-2-dir-2/nested-3-dir-1/Baby_Frog copy 2.stl",
+                    "Baby_Frog.stl": "test-directory/nested-dir-1/nested-2-dir-2/nested-3-dir-1/Baby_Frog.stl",
+                    "Baby_Frog copy.stl": "test-directory/nested-dir-1/nested-2-dir-2/nested-3-dir-1/Baby_Frog copy.stl",
+                    "Bubbly Manatee Multicolor.stl": "test-directory/nested-dir-1/nested-2-dir-2/nested-3-dir-1/Bubbly Manatee Multicolor.stl"
+                }
+            },
+            "nested-2-dir-1": {
+                "Baby_Frog copy 3.stl": "test-directory/nested-dir-1/nested-2-dir-1/Baby_Frog copy 3.stl",
+                "Baby_Frog copy 2.stl": "test-directory/nested-dir-1/nested-2-dir-1/Baby_Frog copy 2.stl",
+                "Baby_Frog.stl": "test-directory/nested-dir-1/nested-2-dir-1/Baby_Frog.stl",
+                "Baby_Frog copy.stl": "test-directory/nested-dir-1/nested-2-dir-1/Baby_Frog copy.stl",
+                "Bubbly Manatee Multicolor.stl": "test-directory/nested-dir-1/nested-2-dir-1/Bubbly Manatee Multicolor.stl"
+            }
+        }
+    }
+}

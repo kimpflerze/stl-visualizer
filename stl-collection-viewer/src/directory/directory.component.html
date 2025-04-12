@@ -1,0 +1,26 @@
+<mat-expansion-panel [style]="{ 'background-color': backgroundColor }" (afterExpand)="scrollToBottom()">
+	<mat-expansion-panel-header>
+	  	Directory Title: {{title}}
+	</mat-expansion-panel-header>
+  
+	<ng-template matExpansionPanelContent>
+
+		<mat-card appearance="outlined" style="display: flex; flex-direction: row; max-width: 100%; gap: 16px; overflow-x: scroll;">
+			@for (stlFile of filterSTLFiles(); track $index) {
+				<image-display [title]="stlFile" [imagePath]="stlFile"></image-display>
+			}
+		</mat-card>
+		
+		
+		<div style="display: flex; flex-direction: column; gap: 16px;">
+			@for (directory of filterDirectories(); track $index) {
+				<directory
+					[title]="directory.title" 
+					[data]="directory.directories"
+				>
+				</directory>
+			}
+		</div>
+		
+	</ng-template>
+</mat-expansion-panel>
